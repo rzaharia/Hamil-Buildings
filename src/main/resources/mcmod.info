@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hamilbuildings",
+  "name": "Hamil Buildings",
+  "description": "Hamil Buildings adds powerful tools for easy and fast building.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["rzaharia"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

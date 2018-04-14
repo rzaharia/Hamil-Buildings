@@ -1,0 +1,22 @@
+{
+  "type" : "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "B"
+  ],
+
+  "key":
+  {
+    "B" :
+    {
+      "item":"minecraft:grass"
+    }
+  },
+
+  "result":
+  {
+    "item" : "minecraft:grass",
+    "count": 1
+  }
+}
